@@ -46,23 +46,25 @@
 
 <p align="center">
  <a href="https://PanchoDev.com" target="blank">
-  <img src="(https://github.com/FranJavacisco/FranJavacisco/assets/134477809/47970b14-bc7b-4ac3-be0d-3e10d5f77a0b)
-" alt="FranJavacisco" />
+  <img src="./assets/youtube-logo.png" alt="FranJavacisco" />
  </a>
  <a href="https://www.linkedin.com/in/francisco-lopez-cl/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="FranJavacisco"/>
+  <img src="./assets/linkedin.png" alt="FranJavacisco"/>
  </a>
  <!-- <a href="https://www.linkedin.com/in/francisco-lopez-cl/" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="FranJavacisco" />
  </a> -->
  <a href="https://twitter.com" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="./assets/twitter.png" />
  </a>
  <a href="https://www.instagram.com/francisco.lopez2.0/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="FranJavacisco" />
+  <img src="./assets/instagram.png" alt="FranJavacisco" />
  </a> 
  <a href="https://facebook.com" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="FranJavacisco"  />
+  <img src="./assets/facebook.png" alt="FranJavacisco"  />
+  </a> 
+   <a href="https://tiktok.com" target="_blank">
+  <img src="./assets/tiktok-logo.png" alt="FranJavacisco"  />
   </a> 
 </p>
 <br />
