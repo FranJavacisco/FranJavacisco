@@ -46,25 +46,25 @@
 
 <p align="center">
  <a href="https://PanchoDev.com" target="blank">
-  <img src="./assets/youtube-logo.png" alt="FranJavacisco" width="50" />
+  <img src="./assets/youtube-logo.png" alt="FranJavacisco" width="60" />
  </a>
  <a href="https://www.linkedin.com/in/francisco-lopez-cl/" target="_blank">
-  <img src="./assets/linkedin.png" alt="FranJavacisco"/>
+  <img src="./assets/linkedin.png" alt="FranJavacisco" width="60"/>
  </a>
  <!-- <a href="https://www.linkedin.com/in/francisco-lopez-cl/" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="FranJavacisco" />
  </a> -->
  <a href="https://twitter.com" target="_blank">
-  <img src="./assets/twitter.png" />
+  <img src="./assets/twitter.png" width="60" />
  </a>
  <a href="https://www.instagram.com/francisco.lopez2.0/" target="_blank">
-  <img src="./assets/instagram.png" alt="FranJavacisco" />
+  <img src="./assets/instagram.png" alt="FranJavacisco" width="60" />
  </a> 
  <a href="https://facebook.com" target="_blank">
-  <img src="./assets/facebook.png" alt="FranJavacisco"  />
+  <img src="./assets/facebook.png" alt="FranJavacisco" width="60"  />
   </a> 
    <a href="https://tiktok.com" target="_blank">
-  <img src="./assets/tiktok-logo.png" alt="FranJavacisco"  />
+  <img src="./assets/tiktok-logo.png" alt="FranJavacisco" width="60"  />
   </a> 
 </p>
 <br />
