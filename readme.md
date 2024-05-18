@@ -46,7 +46,7 @@
 
 <p align="center">
  <a href="https://PanchoDev.com" target="blank">
-  <img src="./assets/youtube-logo.png" alt="FranJavacisco" />
+  <img src="./assets/youtube-logo.png" alt="FranJavacisco" width="50" />
  </a>
  <a href="https://www.linkedin.com/in/francisco-lopez-cl/" target="_blank">
   <img src="./assets/linkedin.png" alt="FranJavacisco"/>
