@@ -41,7 +41,6 @@
   </a>
 </div>
 
-https://youtu.be/GXI0l3yqBrA?si=9z9ryNauWsbB86gA
 
 <p align="center">
  <a href="https://PanchoDev.com" target="blank">
