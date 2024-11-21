@@ -33,6 +33,13 @@ const developer = {
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=react&logoColor=black)
 
+#### Backend
+
+![JAVA](https://img.shields.io/badge/-JAVA-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SPRINGBOOT](https://img.shields.io/badge/-SPRINGBOOT-1572B6?style=for-the-badge&logo=css3)
+![FLASK](https://img.shields.io/badge/-FLASK-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
 #### Seguridad
 
 ![OWASP](https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
