@@ -12,8 +12,8 @@
 
 ```javascript
 const developer = {
-    role: "Front-End Developer & Security Specialist",
-    code: ["JavaScript", "HTML", "CSS", "React"],
+    role: "Front-End Developer & Security Tech",
+    code: ["JavaScript", "HTML", "CSS", "React", "Vue", "Angular"],
     passion: ["UI/UX", "Cybersecurity", "Clean Code"],
     currentFocus: "Creando experiencias web seguras y elegantes"
 };
@@ -34,9 +34,13 @@ const developer = {
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=react&logoColor=black)
+
+
 
 #### Seguridad
 ![OWASP](https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![NIST](https://img.shields.io/badge/-NIST-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Security](https://img.shields.io/badge/-Web_Security-CC0000?style=for-the-badge&logo=security&logoColor=white)
 ![Penetration Testing](https://img.shields.io/badge/-Penetration_Testing-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
 
@@ -54,31 +58,31 @@ const developer = {
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="ENLACE_PROYECTO_1">
-        <img src="/api/placeholder/300/200" alt="Proyecto 1"/>
+      <a href="https://franjavacisco.github.io/Agent_Smith/">
+        <img src="./assets/Agent_Smith.png" alt="Proyecto 1"/>
         <br />
-        <b>🔐 SecureUI Framework</b>
+        <b>🔐 Agent_Smith</b>
       </a>
       <br />
-      Framework de componentes React con seguridad integrada
+      Agent_Smith es un Matrix Login Simulation un proyecto interactivo inspirado en el universo de "The Matrix", diseñado para simular una experiencia visual inmersiva de lluvia de código combinada con un sistema de autenticación ficticio. Este proyecto utiliza HTML5, CSS3 y JavaScript para crear un entorno dinámico y visualmente atractivo.
     </td>
     <td align="center" width="33%">
-      <a href="ENLACE_PROYECTO_2">
-        <img src="/api/placeholder/300/200" alt="Proyecto 2"/>
+      <a href="https://github.com/FranJavacisco/Sabor_Urbano">
+        <img src="./assets/Sabor_Urbano.png" alt="Proyecto 2"/>
         <br />
-        <b>🛡️ WebSec Scanner</b>
+        <b>🥂 Sabor Urbano</b>
       </a>
       <br />
-      Herramienta de análisis de seguridad para SPAs
+      "Sabor Urbano" es un sitio web moderno y responsivo que conecta a los usuarios con el restaurante. Ofrece funciones como consulta de menú, reservas online, horarios, contacto y suscripción a ofertas, mejorando la experiencia digital y facilitando la interacción.
     </td>
     <td align="center" width="33%">
-      <a href="ENLACE_PROYECTO_3">
+      <a href="https://franjavacisco.github.io/Landing_Page/">
         <img src="/api/placeholder/300/200" alt="Proyecto 3"/>
         <br />
-        <b>💼 Portfolio Seguro</b>
+        <b>📱 Landing_Page</b>
       </a>
       <br />
-      Template de portfolio con mejores prácticas de seguridad
+      Landing page interactiva diseñada con JavaScript moderno. Incluye animaciones de scroll, chat simulado, modal de oferta, navegación sticky, efectos parallax, microinteracciones y más. Optimizada para rendimiento y mantenibilidad con una estructura modular y código limpio.
     </td>
   </tr>
 </table>
