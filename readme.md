@@ -1,7 +1,7 @@
 # Hello World! 👋 I'm Developer Security
 
 <div align="center">
-  <img src="/api/placeholder/400/400" alt="Profile Banner" style="border-radius: 50%; border: 2px solid #0052CC;" />
+  <img src="./assets/profile.png" alt="Profile Banner" style="border-radius: 50%; border: 2px solid #0052CC;" />
 </div>
 
 ```typescript
