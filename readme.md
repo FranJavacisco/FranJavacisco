@@ -4,16 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=435&lines=Desarrollador+Front-End;Especialista+en+Ciberseguridad;Creando+Interfaces+Seguras+%26+Elegantes)](https://git.io/typing-svg)
 
-<div style="padding: 20px; border-radius: 10px; background: rgba(0, 82, 204, 0.1);">
-
-<a href="https://youtu.be/XqQZ9K8eEbg?si=SiefcKNEGklVA7Tf" target="_blank">
-  <img src="URL_DE_TU_THUMBNAIL" alt="Video Banner" width="600" style="border-radius: 10px; border: 2px solid #0052CC;"/>
-</a>
-
-</div>
-
-</div>
-
+![Spotify](https://tu-dominio-vercel.vercel.app/api/spotify)
 ---
 
 import React from 'react';
