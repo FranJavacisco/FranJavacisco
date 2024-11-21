@@ -64,7 +64,9 @@ const developer = {
         <b>🔐 Agent_Smith</b>
       </a>
       <br />
-      Agent_Smith es un Matrix Login Simulation un proyecto interactivo inspirado en el universo de "The Matrix", diseñado para simular una experiencia visual inmersiva de lluvia de código combinada con un sistema de autenticación ficticio.
+            <div style="border: 2px solid black; padding: 10px;">
+                  Agent_Smith es un Matrix Login Simulation un proyecto interactivo inspirado en el universo de "The Matrix", diseñado para simular una experiencia visual inmersiva de lluvia de código combinada con un sistema de autenticación ficticio.
+                  </div>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/FranJavacisco/Sabor_Urbano">
