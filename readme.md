@@ -15,13 +15,12 @@ const developer = {
     role: "Front-End Developer & Security Tech",
     code: ["JavaScript", "HTML", "CSS", "React", "Vue", "Angular"],
     passion: ["UI/UX", "Cybersecurity", "Clean Code"],
-    currentFocus: "Creando experiencias web seguras y elegantes"
+    currentFocus:"Creando experiencias web seguras y elegantes"
 };
 ```
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USUARIO&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ID_DEL_VIDEO" frameborder="0" allowfullscreen></iframe>
+
 
 ---
 
@@ -30,21 +29,22 @@ const developer = {
 <div align="center">
 
 #### Frontend
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=react&logoColor=black)
 
-
-
 #### Seguridad
+
 ![OWASP](https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![NIST](https://img.shields.io/badge/-NIST-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Security](https://img.shields.io/badge/-Web_Security-CC0000?style=for-the-badge&logo=security&logoColor=white)
 ![Penetration Testing](https://img.shields.io/badge/-Penetration_Testing-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 #### Herramientas
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -65,7 +65,7 @@ const developer = {
       </a>
       <br />
             <div style="border: 2px solid black; padding: 10px;">
-                  Agent_Smith es un Matrix Login Simulation un proyecto interactivo inspirado en el universo de "The Matrix", diseñado para simular una experiencia visual inmersiva de lluvia de código combinada con un sistema de autenticación ficticio.
+            Agent_Smith es un Matrix Login Simulation un proyecto interactivo inspirado en el universo de "The Matrix", diseñado para simular una experiencia visual inmersiva de lluvia de código combinada con un sistema de autenticación ficticio.
                   </div>
     </td>
     <td align="center" width="33%">
