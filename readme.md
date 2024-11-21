@@ -8,18 +8,43 @@
 
 ---
 
-<div style="background: rgba(0, 82, 204, 0.1); padding: 20px; border-radius: 10px; border: 1px solid #0052CC; margin: 20px 0;">
-  <div style="position: relative; width: 100%; max-width: 640px; margin: 0 auto; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 15px rgba(0, 163, 255, 0.1);">
-    <a href="https://www.youtube.com/watch?v=XqQZ9K8eEbg" target="_blank">
-      <img src="/api/placeholder/640/360" alt="Video de Presentación" style="width: 100%; height: auto; border-radius: 8px;"/>
-      <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-        <img src="https://raw.githubusercontent.com/FranJavacisco/FranJavacisco/main/assets/play-button.png" alt="Play" style="width: 64px; height: 64px; opacity: 0.8;"/>
+import React from 'react';
+
+const VideoBanner = () => {
+  return (
+    <div className="flex justify-center w-full my-8">
+      <div className="relative w-full max-w-2xl rounded-lg overflow-hidden bg-gradient-to-r from-[#0052CC]/10 to-[#00A3FF]/10 p-4">
+        <div className="relative w-full rounded-lg overflow-hidden shadow-lg shadow-blue-500/20">
+          <video 
+            className="w-full h-auto rounded-lg"
+            autoPlay 
+            loop 
+            muted 
+            playsInline
+          >
+            <source src="https://www.youtube.com/watch?v=XqQZ9K8eEbg" type="video/mp4" />
+            Tu navegador no soporta el elemento de video.
+          </video>
+          
+          {/* Overlay con efecto de brillo */}
+          <div className="absolute inset-0 bg-gradient-to-t from-black/20 via-transparent to-transparent"></div>
+          
+          {/* Bordes con efecto glow */}
+          <div className="absolute inset-0 rounded-lg border border-[#00A3FF]/30"></div>
+        </div>
+        
+        {/* Texto descriptivo */}
+        <div className="text-center mt-3">
+          <p className="text-[#00A3FF] text-sm font-light italic">
+            🎥 Video de presentación autoreproducible
+          </p>
+        </div>
       </div>
-    </a>
-  </div>
-  <p style="color: #00A3FF; margin-top: 10px; font-size: 14px;">▶️ Click para ver mi video de presentación</p>
-</div>
-</div>
+    </div>
+  );
+};
+
+export default VideoBanner;
 
 
 ### 🛡️ Sobre mí
