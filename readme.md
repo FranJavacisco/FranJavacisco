@@ -4,46 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=435&lines=Desarrollador+Front-End;Especialista+en+Ciberseguridad;Creando+Interfaces+Seguras+%26+Elegantes)](https://git.io/typing-svg)
 
-![Spotify](https://tu-dominio-vercel.vercel.app/api/spotify)
+![Snake animation](https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+
 ---
-
-import React from 'react';
-
-const VideoBanner = () => {
-  return (
-    <div className="flex justify-center w-full my-8">
-      <div className="relative w-full max-w-2xl rounded-lg overflow-hidden bg-gradient-to-r from-[#0052CC]/10 to-[#00A3FF]/10 p-4">
-        <div className="relative w-full rounded-lg overflow-hidden shadow-lg shadow-blue-500/20">
-          <video 
-            className="w-full h-auto rounded-lg"
-            autoPlay 
-            loop 
-            muted 
-            playsInline
-          >
-            <source src="https://www.youtube.com/watch?v=XqQZ9K8eEbg" type="video/mp4" />
-            Tu navegador no soporta el elemento de video.
-          </video>
-          
-          {/* Overlay con efecto de brillo */}
-          <div className="absolute inset-0 bg-gradient-to-t from-black/20 via-transparent to-transparent"></div>
-          
-          {/* Bordes con efecto glow */}
-          <div className="absolute inset-0 rounded-lg border border-[#00A3FF]/30"></div>
-        </div>
-        
-        {/* Texto descriptivo */}
-        <div className="text-center mt-3">
-          <p className="text-[#00A3FF] text-sm font-light italic">
-            🎥 Video de presentación autoreproducible
-          </p>
-        </div>
-      </div>
-    </div>
-  );
-};
-
-export default VideoBanner;
 
 
 ### 🛡️ Sobre mí
