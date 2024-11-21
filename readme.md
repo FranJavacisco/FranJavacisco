@@ -8,6 +8,20 @@
 
 ---
 
+<div style="background: rgba(0, 82, 204, 0.1); padding: 20px; border-radius: 10px; border: 1px solid #0052CC; margin: 20px 0;">
+  <div style="position: relative; width: 100%; max-width: 640px; margin: 0 auto; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 15px rgba(0, 163, 255, 0.1);">
+    <a href="https://www.youtube.com/watch?v=XqQZ9K8eEbg" target="_blank">
+      <img src="/api/placeholder/640/360" alt="Video de Presentación" style="width: 100%; height: auto; border-radius: 8px;"/>
+      <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+        <img src="https://raw.githubusercontent.com/FranJavacisco/FranJavacisco/main/assets/play-button.png" alt="Play" style="width: 64px; height: 64px; opacity: 0.8;"/>
+      </div>
+    </a>
+  </div>
+  <p style="color: #00A3FF; margin-top: 10px; font-size: 14px;">▶️ Click para ver mi video de presentación</p>
+</div>
+</div>
+
+
 ### 🛡️ Sobre mí
 
 ```javascript
