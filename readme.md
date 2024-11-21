@@ -39,6 +39,13 @@ const developer = {
 ![SPRINGBOOT](https://img.shields.io/badge/-SPRINGBOOT-1572B6?style=for-the-badge&logo=springboot)
 ![FLASK](https://img.shields.io/badge/-FLASK-F7DF1E?style=for-the-badge&logo=flask&logoColor=black)
 
+#### Datos
+
+![MySQL](https://img.shields.io/badge/-MySQL-E34F26?style=for-the-badge&logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1572B6?style=for-the-badge&logo=PostgreSQL)
+![SQLServer](https://img.shields.io/badge/-SQLServer-F7DF1E?style=for-the-badge&logo=SQLServer&logoColor=black)
+![PYTHON](https://img.shields.io/badge/-PYTHON-61DAFB?style=for-the-badge&logo=python&logoColor=black)
+
 
 #### Seguridad
 
