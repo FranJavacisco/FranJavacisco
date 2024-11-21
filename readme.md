@@ -1,152 +1,78 @@
-<div align="center">
-  
-# 👨‍💻 ¡Hola Mundo Digital! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0081FF&center=true&vCenter=true&random=false&width=435&lines=Desarrollador+Front-End;Especialista+en+Ciberseguridad;Creando+Interfaces+Seguras+%26+Elegantes)](https://git.io/typing-svg)
-
-</div>
+# Hello World! 👋 I'm Developer Security
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USUARIO&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="/api/placeholder/400/400" alt="Profile Banner" style="border-radius: 50%; border: 2px solid #0052CC;" />
 </div>
 
----
-
-### 🛡️ Sobre mí
-
-```javascript
-const developer = {
-    role: "Front-End Developer & Security Specialist",
-    code: ["JavaScript", "HTML", "CSS", "React"],
-    passion: ["UI/UX", "Cybersecurity", "Clean Code"],
-    currentFocus: "Creando experiencias web seguras y elegantes",
-    theme: {
-        colors: {
-            primary: "#0052CC",    // Azul profundo
-            secondary: "#00A3FF",  // Azul brillante
-            accent: "#000000",     // Negro
-            text: "#FFFFFF"        // Blanco
-        }
-    }
+```typescript
+const aboutMe = {
+   name: "Developer Security",
+   role: "Front-End Developer & Security Specialist",
+   location: "World Wide Web 🌎",
+   current_focus: "Creating secure & elegant web experiences",
+   fun_fact: "I believe every line of code should be both beautiful and secure 🛡️"
 };
 ```
 
----
+## 🚀 Quick Facts
 
-### 🔧 Stack Tecnológico
+- 🔭 Currently working on **Secure UI Components & Web Security Tools**
+- 🌱 Always learning about **Web Security** and **Modern Front-End Development**
+- 💼 Specialized in **secure front-end architecture** and **penetration testing**
+- 🎯 2024 Goals: Contribute more to **Open Source Security Projects**
+- ⚡ Philosophy: *"Security is not a feature, it's a foundation"*
 
-<div align="center">
-
-#### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=00A3FF)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00A3FF)
-
-#### Seguridad
-![OWASP](https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=owasp&logoColor=0052CC)
-![Security](https://img.shields.io/badge/-Web_Security-000000?style=for-the-badge&logo=security&logoColor=00A3FF)
-![Penetration Testing](https://img.shields.io/badge/-Penetration_Testing-000000?style=for-the-badge&logo=kalilinux&logoColor=0052CC)
-
-#### Herramientas
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00A3FF)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=0052CC)
-
-</div>
-
----
-
-### 🚀 Proyectos Destacados
-
-<table align="center" style="background-color: #000000;">
-  <tr>
-    <td align="center" width="33%">
-      <a href="ENLACE_PROYECTO_1">
-        <img src="/api/placeholder/300/200" alt="Proyecto 1"/>
-        <br />
-        <b>🔐 SecureUI Framework</b>
-      </a>
-      <br />
-      <sub style="color: #00A3FF">Framework de componentes React con seguridad integrada</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="ENLACE_PROYECTO_2">
-        <img src="/api/placeholder/300/200" alt="Proyecto 2"/>
-        <br />
-        <b>🛡️ WebSec Scanner</b>
-      </a>
-      <br />
-      <sub style="color: #00A3FF">Herramienta de análisis de seguridad para SPAs</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="ENLACE_PROYECTO_3">
-        <img src="/api/placeholder/300/200" alt="Proyecto 3"/>
-        <br />
-        <b>💼 Portfolio Seguro</b>
-      </a>
-      <br />
-      <sub style="color: #00A3FF">Template de portfolio con mejores prácticas de seguridad</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-### 💭 Filosofía de Desarrollo
-
-> *"La seguridad no es solo una capa más, es el fundamento de una experiencia de usuario excepcional"*
-
-```typescript
-function developerPhilosophy() {
-    return {
-        clean_code: true,
-        security_first: true,
-        user_experience: "priority",
-        continuous_learning: "always",
-        theme: "dark_elegant"
-    };
-}
-```
-
----
-
-### 🎯 Intereses & Hobbies
-
-<div align="center" style="background-color: #000000;">
-
-- 🔍 CTF Challenges
-- 📚 Bug Bounty Hunting
-- 🎮 Game Security Testing
-- 🌱 Contribuciones Open Source
-
-</div>
-
----
-
-### 📫 Conectemos
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0052CC)](TU_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00A3FF)](TU_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=00A3FF)](TU_PORTFOLIO)
-
-</div>
+## 🛠️ Languages and Tools
 
 <div align="center">
 
-### 🤝 ¿Interesado en colaborar?
+### Frontend Development
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react&logoColor=00A3FF)
+![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=flat-square&logo=css3&logoColor=00A3FF)
 
-[![Email Me](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
+### Security Tools
+![OWASP](https://img.shields.io/badge/-OWASP-0d1117?style=flat-square&logo=owasp)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-0d1117?style=flat-square&logo=burpsuite)
+![Metasploit](https://img.shields.io/badge/-Metasploit-0d1117?style=flat-square&logo=metasploit)
+
+### Development Tools
+![VS Code](https://img.shields.io/badge/-VS_Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=00A3FF)
+![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker&logoColor=00A3FF)
+
+</div>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USUARIO&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=0d1117&title_color=00A3FF&icon_color=00A3FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO&layout=compact&langs_count=7&theme=github_dark&bg_color=0d1117&border_color=0d1117&title_color=00A3FF"/>
+</div>
+
+## 🔥 Featured Projects
+
+<div align="center">
+
+[![SecureUI Card](https://github-readme-stats.vercel.app/api/pin/?username=USUARIO&repo=secure-ui&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=00A3FF&icon_color=00A3FF)](https://github.com/USUARIO/secure-ui)
+[![WebSec Card](https://github-readme-stats.vercel.app/api/pin/?username=USUARIO&repo=websec-toolkit&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=00A3FF&icon_color=00A3FF)](https://github.com/USUARIO/websec-toolkit)
+
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00A3FF)](TU_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=twitter&logoColor=00A3FF)](TU_TWITTER)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=About.me&logoColor=00A3FF)](TU_WEBSITE)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00A3FF)](mailto:TU_EMAIL)
 
 </div>
 
 ---
 
 <div align="center">
-  
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=TU_USUARIO.TU_USUARIO&color=00A3FF)
-[![Follow](https://img.shields.io/github/followers/TU_USUARIO?label=Follow&style=social)](https://github.com/TU_USUARIO)
-
+  <img src="https://komarev.com/ghpvc/?username=USUARIO&color=00A3FF&style=flat-square" alt="Profile views"/>
 </div>
