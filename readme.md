@@ -1,7 +1,12 @@
+<div align="center">
+  <div style="background: radial-gradient(circle at center, #E6F3FF, #0052CC); border-radius: 50%; padding: 4px; width: 150px; height: 150px; margin: 0 auto;">
+    <img src="/api/placeholder/140/140" alt="Profile" style="border-radius: 50%; border: 2px solid #FFFFFF; width: 140px; height: 140px;" />
+  </div>
+
 # Hello World! 👋 I'm Developer Security
 
-<div align="center">
-  <img src="./assets/profile.png" alt="Profile Banner" style="border-radius: 50%; border: 2px solid #0052CC;" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00A3FF&center=true&vCenter=true&random=false&width=435&lines=Front-End+Developer;Security+Specialist;Creating+Secure+%26+Elegant+Experiences)](https://git.io/typing-svg)
+
 </div>
 
 ```typescript
@@ -47,8 +52,8 @@ const aboutMe = {
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USUARIO&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=0d1117&title_color=00A3FF&icon_color=00A3FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO&layout=compact&langs_count=7&theme=github_dark&bg_color=0d1117&border_color=0d1117&title_color=00A3FF"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=USUARIO&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=0d1117&title_color=00A3FF&icon_color=00A3FF"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO&layout=compact&langs_count=7&theme=github_dark&bg_color=0d1117&border_color=0d1117&title_color=00A3FF"/>
 </div>
 
 ## 🔥 Featured Projects
