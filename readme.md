@@ -82,7 +82,9 @@ const developer = {
         <b>📱 Landing_Page</b>
       </a>
       <br />
-      Landing page interactiva diseñada con JavaScript moderno. Incluye animaciones de scroll, chat simulado, modal de oferta, navegación sticky, efectos parallax, microinteracciones y más. Optimizada para rendimiento y mantenibilidad con una estructura modular y código limpio.
+      <div style="border: 2px solid black; padding: 10px;">
+            Landing page interactiva diseñada con JavaScript moderno. Incluye animaciones de scroll, chat simulado, modal de oferta, navegación sticky, efectos parallax, microinteracciones y más. Optimizada para rendimiento y mantenibilidad con una estructura modular y código limpio.
+            </div>
     </td>
   </tr>
 </table>
