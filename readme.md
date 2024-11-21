@@ -31,19 +31,19 @@ const developer = {
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=black)
 
 #### Backend
 
-![JAVA](https://img.shields.io/badge/-JAVA-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SPRINGBOOT](https://img.shields.io/badge/-SPRINGBOOT-1572B6?style=for-the-badge&logo=css3)
-![FLASK](https://img.shields.io/badge/-FLASK-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JAVA](https://img.shields.io/badge/-JAVA-E34F26?style=for-the-badge&logo=java&logoColor=white)
+![SPRINGBOOT](https://img.shields.io/badge/-SPRINGBOOT-1572B6?style=for-the-badge&logo=springboot)
+![FLASK](https://img.shields.io/badge/-FLASK-F7DF1E?style=for-the-badge&logo=flask&logoColor=black)
 
 
 #### Seguridad
 
 ![OWASP](https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![NIST](https://img.shields.io/badge/-NIST-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![NIST](https://img.shields.io/badge/-NIST-000000?style=for-the-badge&logo=nist&logoColor=white)
 ![Security](https://img.shields.io/badge/-Web_Security-CC0000?style=for-the-badge&logo=security&logoColor=white)
 ![Penetration Testing](https://img.shields.io/badge/-Penetration_Testing-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
 
