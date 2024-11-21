@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=435&lines=Desarrollador+Front-End;Especialista+en+Ciberseguridad;Creando+Interfaces+Seguras+%26+Elegantes)](https://git.io/typing-svg)
 
-![Snake animation](https://github.com/TU_USUARIO/TU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/FranJavacisco/FranJavacisco/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
