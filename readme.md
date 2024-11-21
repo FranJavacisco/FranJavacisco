@@ -1,6 +1,6 @@
 <div align="center">
   <div style="background: radial-gradient(circle at center, #E6F3FF, #0052CC); border-radius: 50%; padding: 4px; width: 150px; height: 150px; margin: 0 auto;">
-    <img src="./assets/profile.png" alt="Profile" style="border-radius: 50%; border: 2px solid #FFFFFF; width: 140px; height: 140px;" />
+    <img src="./assets/profile (1).png" alt="Profile" style="border-radius: 50%; border: 2px solid #FFFFFF; width: 140px; height: 140px;" />
   </div>
 
 # Hello World! 👋 I'm Developer Security
