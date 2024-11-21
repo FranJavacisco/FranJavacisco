@@ -1,82 +1,144 @@
-<div class="container">
-  <header>
-    <h1 class="header-title">👨‍💻 ¡Hola Mundo Digital! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-    
-    <div class="typing-animation">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=435&lines=Desarrollador+Front-End;Especialista+en+Ciberseguridad;Creando+Interfaces+Seguras+%26+Elegantes" alt="Typing SVG">
-      </a>
-    </div>
+<div align="center">
+  
+# 👨‍💻 ¡Hola Mundo Digital! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-    <link rel="stylesheet" href="./styles.css">
-  </header>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=435&lines=Desarrollador+Front-End;Especialista+en+Ciberseguridad;Creando+Interfaces+Seguras+%26+Elegantes)](https://git.io/typing-svg)
 
-  <section class="about">
-    <h3>🛡️ Sobre mí</h3>
-    <pre><code class="language-javascript">
+
+---
+
+
+### 🛡️ Sobre mí
+
+```javascript
 const developer = {
     role: "Front-End Developer Junior & Security Tech",
     code: ["JavaScript", "HTML", "CSS", "React", "Vue.js", "Angular"],
     passion: ["UI/UX", "Cybersecurity", "Clean Code"],
     currentFocus:"Creando experiencias web seguras y elegantes"
 };
-    </code></pre>
-  </section>
+```
 
-  <section class="tech-stack">
-    <h3>🔧 Stack Tecnológico</h3>
-    
-    <div class="tech-category">
-      <h4>Frontend</h4>
-      <div class="tech-items">
-        <div class="tech-item">
-          <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-        </div>
-        <!-- Repeat for other frontend badges -->
-      </div>
-    </div>
-    
-    <!-- Repeat structure for Security and Tools sections -->
-  </section>
+---
 
-  <section class="projects">
-    <h3>🚀 Proyectos Destacados</h3>
-    <div class="project-grid">
-      <div class="project-card">
-        <img src="./assets/Agent_Smith.png" alt="Agent Smith Project">
-        <div class="project-info">
-          <h4>🔐 Agent_Smith</h4>
-          <p>Agent_Smith es un Matrix Login Simulation un proyecto interactivo inspirado en el universo de "The Matrix"...</p>
-          <a href="https://franjavacisco.github.io/Agent_Smith/" class="project-link">Ver Proyecto</a>
-        </div>
-      </div>
-      <!-- Repeat for other projects -->
-    </div>
-  </section>
+### 🔧 Stack Tecnológico
 
-  <section class="philosophy">
-    <h3>💭 Filosofía de Desarrollo</h3>
-    <blockquote>
-      <p>"La seguridad no es solo una capa más, es el fundamento de una experiencia de usuario excepcional"</p>
-    </blockquote>
-    <!-- Code block remains the same -->
-  </section>
+<div align="center">
 
-  <section class="interests">
-    <h3>🎯 Intereses & Hobbies</h3>
-    <ul>
-      <li>🔍 CTF Challenges</li>
-      <!-- Other interests -->
-    </ul>
-  </section>
+#### Frontend
 
-  <footer>
-    <h3>📫 Conectemos</h3>
-    <div class="social-links">
-      <a href="https://www.linkedin.com/in/francisco-lopez-cl/" class="social-link">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=react&logoColor=black)
+
+#### Seguridad
+
+![OWASP](https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![NIST](https://img.shields.io/badge/-NIST-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Security](https://img.shields.io/badge/-Web_Security-CC0000?style=for-the-badge&logo=security&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/-Penetration_Testing-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+#### Herramientas
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+### 🚀 Proyectos Destacados
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://franjavacisco.github.io/Agent_Smith/">
+        <img src="./assets/Agent_Smith.png" alt="Proyecto 1"/>
+        <br />
+        <b>🔐 Agent_Smith</b>
       </a>
-      <!-- Other social links -->
-    </div>
-  </footer>
+      <br />
+            <div style="border: 2px solid black; padding: 10px;">
+            Agent_Smith es un Matrix Login Simulation un proyecto interactivo inspirado en el universo de "The Matrix", diseñado para simular una experiencia visual inmersiva de lluvia de código combinada con un sistema de autenticación ficticio.
+                  </div>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/FranJavacisco/Sabor_Urbano">
+        <img src="./assets/Sabor_Urbano.png" alt="Proyecto 2"/>
+        <br />
+        <b>🥂 Sabor Urbano</b>
+      </a>
+      <br />
+      "Sabor Urbano" es un sitio web moderno y responsivo que conecta a los usuarios con el restaurante. Ofrece funciones como consulta de menú, reservas online, horarios, contacto y suscripción a ofertas, mejorando la experiencia digital y facilitando la interacción.
+    </td>
+    <td align="center" width="33%">
+      <a href="https://franjavacisco.github.io/Landing_Page/">
+        <img src="./assets/Landing_Page.png" alt="Proyecto 3"/>
+        <br />
+        <b>📱 Landing_Page</b>
+      </a>
+      <br />
+      <div style="border: 2px solid black; padding: 10px;">
+            Landing page interactiva diseñada con JavaScript moderno. Incluye animaciones de scroll, chat simulado, modal de oferta, navegación sticky, efectos parallax, microinteracciones y más. Optimizada para rendimiento y mantenibilidad con una estructura modular y código limpio.
+            </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💭 Filosofía de Desarrollo
+
+> *"La seguridad no es solo una capa más, es el fundamento de una experiencia de usuario excepcional"*
+
+```typescript
+function developerPhilosophy() {
+    return {
+        clean_code: true,
+        security_first: true,
+        user_experience: "priority",
+        continuous_learning: "always"
+    };
+}
+```
+
+---
+
+### 🎯 Intereses & Hobbies
+
+- 🔍 CTF Challenges
+- 📚 Bug Bounty Hunting
+- 🎮 Game Security Testing
+- 🌱 Contribuciones Open Source
+
+---
+
+### 📫 Conectemos
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-lopez-cl/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](TU_TWITTER)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://franjavacisco.github.io/mi_CV/)
+
+</div>
+
+<div align="center">
+
+### 🤝 ¿Interesado en colaborar?
+
+[![Email Me](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](panchodev@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=FranJavacisco.FranJavacisco)
+[![Follow](https://img.shields.io/github/followers/TU_USUARIO?label=Follow&style=social)](https://github.com/FranJavacisco)
+
 </div>
