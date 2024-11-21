@@ -2,7 +2,7 @@
   
 # 👨‍💻 ¡Hola Mundo Digital! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=435&lines=Desarrollador+Front-End;Especialista+en+Ciberseguridad;Creando+Interfaces+Seguras+%26+Elegantes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=435&lines=Desarrollador+Front-End+junior;Tecnico+en+Ciberseguridad;Creando+Interfaces+Seguras+%26+Elegantes)](https://git.io/typing-svg)
 
 
 ---
