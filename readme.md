@@ -1,77 +1,129 @@
-<!-- Estilos base responsivos -->
+<!-- Estilos CSS optimizados para todos los dispositivos -->
 <style>
+/* Variables CSS para mantener consistencia */
+:root {
+  --terminal-green: #00ff00;
+  --terminal-dark: #001100;
+  --terminal-black: #000000;
+  --glow-effect: 0 0 5px rgba(0, 255, 0, 0.5);
+  --border-color: #00ff00;
+  --bg-gradient: linear-gradient(180deg, #001100 0%, #000000 100%);
+}
+
+/* Estilos base responsivos */
 .terminal-container {
   max-width: 100%;
   margin: 0 auto;
-  font-family: 'DOS', 'Courier New', monospace;
-  color: #0f0;
-  text-shadow: 0 0 5px rgba(0, 255, 0, 0.5);
-  background-color: #000;
-  padding: 1rem;
-  box-sizing: border-box;
+  padding: clamp(0.5rem, 2vw, 2rem);
+  background: var(--terminal-black);
+  font-family: 'Share Tech Mono', 'Courier New', monospace;
+  color: var(--terminal-green);
+  text-shadow: var(--glow-effect);
+  line-height: 1.6;
   overflow-x: hidden;
 }
 
+/* Headers Responsivos */
 .terminal-header {
-  width: 100%;
-  font-size: clamp(0.8rem, 2vw, 1.2rem);
-  margin-bottom: 1rem;
-  white-space: pre-wrap;
-  word-break: break-word;
-}
-
-.terminal-section {
-  border: 1px solid #0f0;
-  background-color: #001100;
+  font-size: clamp(1rem, 3vw, 1.5rem);
+  text-align: center;
+  margin-bottom: 2rem;
   padding: 1rem;
-  margin: 1rem 0;
-  width: 100%;
-  box-sizing: border-box;
+  border: 2px solid var(--border-color);
+  border-radius: 5px;
+  background: var(--terminal-dark);
+  box-shadow: var(--glow-effect);
 }
 
+/* Secciones con mejor espaciado */
+.terminal-section {
+  margin: 2rem 0;
+  padding: clamp(1rem, 3vw, 2rem);
+  border: 1px solid var(--border-color);
+  border-radius: 5px;
+  background: var(--terminal-dark);
+  transition: transform 0.3s ease;
+}
+
+.terminal-section:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0 15px rgba(0, 255, 0, 0.2);
+}
+
+/* Grid System Mejorado */
 .terminal-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr));
+  gap: clamp(1rem, 3vw, 2rem);
+  align-items: start;
 }
 
+/* Cards de Proyecto Optimizadas */
 .project-card {
-  border: 1px dashed #0f0;
+  background: var(--terminal-dark);
+  border: 1px solid var(--border-color);
+  border-radius: 5px;
   padding: 1rem;
-  margin: 0.5rem 0;
+  transition: all 0.3s ease;
 }
 
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 20px rgba(0, 255, 0, 0.3);
+}
+
+/* Imágenes Responsivas */
 .project-image {
   width: 100%;
   height: auto;
-  filter: sepia(100%) hue-rotate(70deg) brightness(70%) contrast(150%);
+  border-radius: 3px;
+  margin: 1rem 0;
+  filter: sepia(50%) hue-rotate(70deg) brightness(90%) contrast(130%);
+  transition: filter 0.3s ease;
 }
 
-@media (max-width: 768px) {
-  .terminal-header {
-    font-size: 0.9rem;
-  }
-  
-  .terminal-section {
-    padding: 0.5rem;
-  }
-  
-  .project-card {
-    margin: 0.25rem 0;
-  }
+.project-image:hover {
+  filter: sepia(30%) hue-rotate(70deg) brightness(100%) contrast(120%);
 }
 
-@media (max-width: 480px) {
-  .terminal-container {
-    padding: 0.5rem;
-  }
-  
-  .terminal-grid {
-    grid-template-columns: 1fr;
-  }
+/* Progress Bars Estilizados */
+.progress-bar {
+  height: 20px;
+  background: var(--terminal-dark);
+  border: 1px solid var(--border-color);
+  border-radius: 3px;
+  overflow: hidden;
+  margin: 0.5rem 0;
 }
 
-/* Efecto Scanline responsivo */
+.progress-fill {
+  height: 100%;
+  background: var(--terminal-green);
+  opacity: 0.7;
+  transition: width 1s ease-in-out;
+}
+
+/* Botones Retro */
+.terminal-button {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem;
+  background: var(--terminal-dark);
+  border: 1px solid var(--border-color);
+  border-radius: 3px;
+  color: var(--terminal-green);
+  text-decoration: none;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.terminal-button:hover {
+  background: var(--terminal-green);
+  color: var(--terminal-black);
+  box-shadow: 0 0 10px var(--terminal-green);
+}
+
+/* Efectos de Terminal */
 .scanline {
   position: fixed;
   top: 0;
@@ -79,190 +131,141 @@
   width: 100%;
   height: 100%;
   background: repeating-linear-gradient(
-    transparent 0%,
-    rgba(0, 255, 0, 0.05) 0.5%,
-    transparent 1%
+    0deg,
+    rgba(0, 255, 0, 0.03) 0%,
+    rgba(0, 255, 0, 0.03) 1px,
+    transparent 1px,
+    transparent 2px
   );
   pointer-events: none;
-  z-index: 1;
+  z-index: 2;
+}
+
+/* Optimizaciones para móvil */
+@media (max-width: 768px) {
+  .terminal-container {
+    padding: 0.5rem;
+  }
+  
+  .terminal-section {
+    padding: 1rem;
+    margin: 1rem 0;
+  }
+  
+  .terminal-grid {
+    gap: 1rem;
+  }
+  
+  .project-card {
+    margin: 0.5rem 0;
+  }
+  
+  .terminal-button {
+    width: calc(50% - 1rem);
+    padding: 0.75rem;
+  }
+}
+
+/* Animaciones */
+@keyframes pulse {
+  0% { opacity: 0.8; }
+  50% { opacity: 1; }
+  100% { opacity: 0.8; }
+}
+
+.terminal-text {
+  animation: pulse 2s infinite;
+}
+
+/* Loading Bar Animation */
+@keyframes loading {
+  0% { width: 0; }
+  100% { width: 100%; }
+}
+
+.loading-bar {
+  height: 2px;
+  background: var(--terminal-green);
+  animation: loading 2s linear;
 }
 </style>
 
+<!-- Contenido del README con las nuevas optimizaciones -->
 <div class="terminal-container">
+  <div class="loading-bar"></div>
+  
+  <header class="terminal-header">
+    <div class="terminal-text">SYSTEM v2.0.24 - Developer Profile</div>
+    <small>Last updated: 23/11/2024</small>
+  </header>
 
-```ascii
-╔════ TERMINAL ACCESS v2.0.0 ═════╗
-║ C:\Users\FranciscoLopez\profile ║
-╚═════════════════════════════════╝
-```
+  <!-- Sección de identificación -->
+  <section class="terminal-section">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&width=435&lines=>>+Initializing+Profile...;>>+Loading+Complete" alt="Loading Animation"/>
+    
+    <div class="terminal-grid">
+      <div>
+        <h2>>> Developer Info</h2>
+        <p>Name: Francisco López</p>
+        <p>Role: Front-End & Security</p>
+        <p>Status: Active</p>
+      </div>
+      <div>
+        <h2>>> Current Focus</h2>
+        <p>🔒 Security-First Development</p>
+        <p>🎨 UI/UX Excellence</p>
+        <p>📱 Responsive Design</p>
+      </div>
+    </div>
+  </section>
 
-<div class="terminal-section">
-<img src="https://readme-typing-svg.herokuapp.com?font=DOS&size=16&duration=3000&pause=1000&color=00FF00&width=300&height=50&lines=Loading+system...;Access+granted..." />
-</div>
+  <!-- Tech Stack con barras de progreso animadas -->
+  <section class="terminal-section">
+    <h2>>> Tech Stack Analysis</h2>
+    <div class="terminal-grid">
+      <!-- Frontend -->
+      <div>
+        <h3>Frontend</h3>
+        <div class="progress-bar">
+          <div class="progress-fill" style="width: 90%"></div>
+          <span>HTML5 90%</span>
+        </div>
+        <!-- Más barras de progreso... -->
+      </div>
+      
+      <!-- Backend -->
+      <div>
+        <h3>Backend</h3>
+        <!-- Barras de progreso backend... -->
+      </div>
+      
+      <!-- Security -->
+      <div>
+        <h3>Security</h3>
+        <!-- Barras de progreso security... -->
+      </div>
+    </div>
+  </section>
 
-<div class="terminal-section">
+  <!-- Proyectos con mejor presentación -->
+  <section class="terminal-section">
+    <h2>>> Active Projects</h2>
+    <div class="terminal-grid">
+      <!-- Proyecto 1 -->
+      <article class="project-card">
+        <h3>Agent_Smith</h3>
+        <img class="project-image" src="./assets/Agent_Smith.png" alt="Agent Smith Project">
+        <p class="terminal-text">Matrix-inspired login system with advanced security features</p>
+        <div>
+          <a href="#" class="terminal-button">View Code</a>
+          <a href="#" class="terminal-button">Live Demo</a>
+        </div>
+      </article>
+      <!-- Más proyectos... -->
+    </div>
+  </section>
 
-```ascii
-═══ SYSTEM IDENTIFICATION ═══
-```
+  <!-- Secciones adicionales con el mismo estilo... -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=DOS&size=16&duration=100&pause=1000&color=00FF00&width=300&height=120&lines=>>+Developer:+Francisco+López;>>+Role:+Front-End+%26+Security;>>+Status:+Online;>>+Version:+2.0.24" />
-</div>
-
-<div class="terminal-section">
-
-```ascii
-═══ TECH STACK ═══
-```
-
-<div class="terminal-grid">
-
-```ascii
-[FRONTEND]
-HTML5.......[██████] 100%
-CSS3.......[█████-] 80%
-JavaScript..[████--] 70%
-React......[█████-] 80%
-Vue.js.....[████--] 60%
-```
-
-```ascii
-[BACKEND]
-JAVA.......[████--] 70%
-SPRING.....[███---] 60%
-FLASK......[██----] 40%
-```
-
-```ascii
-[SECURITY]
-OWASP......[█████-] 80%
-PenTest....[████--] 70%
-WebSec.....[█████-] 80%
-```
-
-</div>
-</div>
-
-<div class="terminal-section">
-
-```ascii
-═══ ACTIVE PROJECTS ═══
-```
-
-<div class="terminal-grid">
-
-<div class="project-card">
-
-```ascii
-[PROJECT_001]
-> Name: Agent_Smith
-> Type: Matrix Login
-> Status: ACTIVE
-```
-
-<img class="project-image" src="./assets/Agent_Smith.png" alt="Agent_Smith">
-
-```ascii
-[ACCESS]
->git clone repo
->view demo
-```
-
-</div>
-
-<div class="project-card">
-
-```ascii
-[PROJECT_002]
-> Name: Sabor_Urbano
-> Type: Restaurant UI
-> Status: ACTIVE
-```
-
-<img class="project-image" src="./assets/Sabor_Urbano.png" alt="Sabor_Urbano">
-
-```ascii
-[ACCESS]
->git clone repo
->view demo
-```
-
-</div>
-
-<div class="project-card">
-
-```ascii
-[PROJECT_003]
-> Name: Landing_Page
-> Type: Interactive
-> Status: ACTIVE
-```
-
-<img class="project-image" src="./assets/Landing_Page.png" alt="Landing_Page">
-
-```ascii
-[ACCESS]
->git clone repo
->view demo
-```
-
-</div>
-
-</div>
-</div>
-
-<div class="terminal-section">
-
-```ascii
-═══ DEV PHILOSOPHY ═══
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=DOS&size=16&duration=100&pause=1000&color=00FF00&width=300&height=150&lines=function+devPhilosophy()+{;++return+{;++++clean:+true,;++++secure:+true;++};}" />
-
-```ascii
-"Security is not a layer,
-it's the foundation"
-```
-
-</div>
-
-<div class="terminal-section">
-
-```ascii
-═══ INTERESTS ═══
-```
-
-<div class="terminal-grid">
-
-```ascii
-[01] CTF.......[ACTIVE]
-[02] Bounty....[RUNNING]
-[03] Gaming....[ENABLED]
-[04] OpenSrc...[COMMIT]
-```
-
-</div>
-</div>
-
-<div class="terminal-section">
-
-```ascii
-═══ REMOTE ACCESS ═══
-```
-
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/francisco-lopez-cl/)
-[![Twitter](https://img.shields.io/badge/Twitter-00FF00?style=for-the-badge&logo=twitter&logoColor=black)](TU_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=netlify&logoColor=black)](https://franjavacisco.github.io/mi_CV/)
-[![Email](https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:panchodev@gmail.com)
-
-</div>
-</div>
-
-```ascii
-═══ EOF ═══
-```
-
-<div class="scanline"></div>
+  <div class="scanline"></div>
 </div>
