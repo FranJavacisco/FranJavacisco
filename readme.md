@@ -1,107 +1,170 @@
-<div align="center">
-  
-# <span style="color: #09cac7">👨‍💻 ¡Hola Mundo Digital!</span> <picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave animation" /></picture>
+<div align="center" style="background-color: #000; font-family: 'DOS', 'Courier New', monospace; color: #0f0; padding: 20px; border: 2px solid #0f0; box-shadow: 0 0 10px rgba(0, 255, 0, 0.5); text-shadow: 0 0 5px rgba(0, 255, 0, 0.5);">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=09CAC7&center=true&vCenter=true&random=false&width=435&lines=Desarrollador+Front-End+Junior;Tecnico+en+Ciberseguridad;Creo+Interfaces+Seguras+%26+Elegantes" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=09CAC7&center=true&vCenter=true&random=false&width=435&lines=Desarrollador+Front-End+Junior;Tecnico+en+Ciberseguridad;Creo+Interfaces+Seguras+%26+Elegantes" alt="Typing SVG" />
-</picture>
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║                    TERMINAL v2.0.0                           ║
+║           C:\Users\FranciscoLopez\profile.exe               ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<div style="background-color: #02686f; border-radius: 10px; padding: 20px; margin: 20px 0;">
-
-## <span style="color: #09cac7">🛡️ Sobre mí</span>
-
-<div style="background-color: #025377; border-radius: 8px; padding: 15px;">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=4000&pause=1000&color=09CAC7&multiline=true&random=false&width=435&height=135&lines=const+developer+%3D+%7B;++role%3A+%22Front-End+Developer+Junior+%26+Security+Tech%22%2C;++code%3A+%5B%22JavaScript%22%2C+%22HTML%22%2C+%22CSS%22%2C+%22React%22%5D%2C;++passion%3A+%5B%22UI%2FUX%22%2C+%22Cybersecurity%22%2C+%22Clean+Code%22%5D;%7D" alt="Typing Code" />
-</div>
+<div style="text-align: left; white-space: pre;">
+<img src="https://readme-typing-svg.herokuapp.com?font=DOS&duration=3000&pause=1000&color=00FF00&multiline=true&repeat=false&random=false&width=500&height=60&lines=C:\>+LOADING+PROFILE...;C:\>+SYSTEM+READY..." />
 </div>
 
-<div style="background-color: #025377; border-radius: 10px; padding: 20px; margin: 20px 0;">
+<div style="text-align: left; padding: 20px; border: 1px solid #0f0; margin: 20px 0; background-color: #001100;">
 
-## <span style="color: #09cac7">🔧 Stack Tecnológico</span>
+```ascii
+╔═══ IDENTIFICACIÓN DEL SISTEMA ════════════════════════════════╗
+  > Usuario: Francisco López
+  > Rol: Front-End Developer & Security Tech
+  > Status: Online
+  > Última actualización: 23/11/2024
+╚════════════════════════════════════════════════════════════════╝
+```
 
-<div class="stack-container" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0;">
-
-<details open>
-<summary style="color: #6da3c7; cursor: pointer; font-size: 1.2em; margin-bottom: 10px;">Frontend</summary>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; padding: 15px;">
-
-![HTML5](https://img.shields.io/badge/-HTML5-%2302686f?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-%2302686f?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%2302686f?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-%2302686f?style=for-the-badge&logo=react&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%2302686f?style=for-the-badge&logo=vue.js&logoColor=white)
-</div>
-</details>
-
-<!-- [Otras secciones de Stack Tecnológico similares...] -->
-
-</div>
-</div>
-
-<div style="background-color: #02686f; border-radius: 10px; padding: 20px; margin: 20px 0;">
-
-## <span style="color: #09cac7">🚀 Proyectos Destacados</span>
-
-<div class="projects-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; padding: 20px;">
-
-<div class="project-card" style="background-color: #025377; border-radius: 8px; overflow: hidden;">
-  <div style="padding: 20px;">
-    <h3 style="color: #09cac7; margin-bottom: 15px;">🔐 Agent_Smith</h3>
-    <p style="color: #b2c0cb; margin-bottom: 20px;">Agent_Smith es un Matrix Login Simulation, un proyecto interactivo inspirado en el universo de "The Matrix".</p>
-  </div>
-  <img src="./assets/Agent_Smith.png" alt="Proyecto 1" style="width: 100%; height: auto;"/>
-  <div style="display: flex; gap: 10px; padding: 15px; background-color: #02686f;">
-    <a href="https://github.com/usuario/Agent_Smith" style="background-color: #09cac7; color: #025377; padding: 8px 16px; border-radius: 5px; text-decoration: none; flex: 1; text-align: center;">Repositorio</a>
-    <a href="https://franjavacisco.github.io/Agent_Smith/" style="background-color: #6da3c7; color: #025377; padding: 8px 16px; border-radius: 5px; text-decoration: none; flex: 1; text-align: center;">Demo</a>
-  </div>
-</div>
-
-<!-- [Repite estructura para otros proyectos...] -->
-
-</div>
-</div>
-
-<div style="background-color: #025377; border-radius: 10px; padding: 20px; margin: 20px 0;">
-
-## <span style="color: #09cac7">💭 Filosofía de Desarrollo</span>
-
-<div style="background-color: #02686f; border-radius: 8px; padding: 15px;">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=4000&pause=1000&color=09CAC7&multiline=true&random=false&width=435&height=135&lines=function+developerPhilosophy()+%7B;++return+%7B;++++clean_code%3A+true%2C;++++security_first%3A+true%2C;++++user_experience%3A+%22priority%22;++%7D;%7D" alt="Typing Philosophy" />
-</div>
-
-<blockquote style="border-left: 4px solid #09cac7; padding-left: 15px; margin-top: 20px;">
-<em style="color: #b2c0cb">"La seguridad no es solo una capa más, es el fundamento de una experiencia de usuario excepcional"</em>
-</blockquote>
-</div>
-
-<div style="background-color: #02686f; border-radius: 10px; padding: 20px; margin: 20px 0;">
-
-## <span style="color: #09cac7">🎯 Intereses & Hobbies</span>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; text-align: center;">
-  <div style="background-color: #025377; padding: 15px; border-radius: 8px; color: #b2c0cb;">🔍 CTF Challenges</div>
-  <div style="background-color: #025377; padding: 15px; border-radius: 8px; color: #b2c0cb;">📚 Bug Bounty Hunting</div>
-  <div style="background-color: #025377; padding: 15px; border-radius: 8px; color: #b2c0cb;">🎮 Game Security Testing</div>
-  <div style="background-color: #025377; padding: 15px; border-radius: 8px; color: #b2c0cb;">🌱 Contribuciones Open Source</div>
-</div>
-</div>
-
-<div style="background-color: #025377; border-radius: 10px; padding: 20px; margin: 20px 0;">
-
-## <span style="color: #09cac7">📫 Conectemos</span>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2302686f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-lopez-cl/)
-[![Twitter](https://img.shields.io/badge/Twitter-%2302686f?style=for-the-badge&logo=twitter&logoColor=white)](TU_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2302686f?style=for-the-badge&logo=netlify&logoColor=white)](https://franjavacisco.github.io/mi_CV/)
+<img src="https://readme-typing-svg.herokuapp.com?font=DOS&size=18&duration=100&pause=1000&color=00FF00&multiline=true&repeat=false&width=500&height=150&lines=C:\>+SCANNING+DEVELOPER+PROFILE...;>>+role:+%22Front-End+Developer+%26+Security+Tech%22;>>+code:+%5BJS%2C+HTML%2C+CSS%2C+React%5D;>>+status:+%22Active%22;C:\>+SCAN+COMPLETE" />
 
 </div>
 
-### <span style="color: #09cac7">🤝 ¿Interesado en colaborar?</span>
+```ascii
+╔═══ STACK TECNOLÓGICO ═══════════════════════════════════════╗
+```
 
-[![Email Me](https://img.shields.io/badge/Email-%2302686f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panchodev@gmail.com)
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 10px; text-align: left; padding: 20px; border: 1px solid #0f0; background-color: #001100;">
+
+```ascii
+[FRONTEND]
+> HTML5.............[██████████] 100%
+> CSS3.............[████████──] 80%
+> JavaScript.......[███████───] 70%
+> React............[████████──] 80%
+> Vue.js...........[██████────] 60%
+
+[BACKEND]
+> JAVA.............[███████───] 70%
+> SPRINGBOOT.......[██████────] 60%
+> FLASK............[████──────] 40%
+
+[SECURITY]
+> OWASP............[████████──] 80%
+> PenTesting.......[███████───] 70%
+> Web Security.....[████████──] 80%
+```
 
 </div>
+
+```ascii
+╔═══ PROYECTOS EN MEMORIA ═══════════════════════════════════╗
+```
+
+<div style="text-align: left; padding: 20px; border: 1px solid #0f0; margin: 20px 0; background-color: #001100;">
+
+```ascii
+[PROJECT_001: Agent_Smith]
+> Status: ONLINE
+> Type: Matrix Login Simulation
+> Security Level: HIGH
+```
+<div style="padding: 10px; margin: 10px 0; border: 1px dashed #0f0;">
+<img src="./assets/Agent_Smith.png" alt="Agent_Smith" style="max-width: 100%; height: auto; filter: sepia(100%) hue-rotate(70deg) brightness(70%) contrast(150%);">
+</div>
+
+```ascii
+> ACCESS POINTS:
+  [1] Repository: https://github.com/usuario/Agent_Smith
+  [2] Live Demo: https://franjavacisco.github.io/Agent_Smith/
+```
+
+```ascii
+[PROJECT_002: Sabor_Urbano]
+> Status: ONLINE
+> Type: Restaurant Interface
+> Security Level: MEDIUM
+```
+<div style="padding: 10px; margin: 10px 0; border: 1px dashed #0f0;">
+<img src="./assets/Sabor_Urbano.png" alt="Sabor_Urbano" style="max-width: 100%; height: auto; filter: sepia(100%) hue-rotate(70deg) brightness(70%) contrast(150%);">
+</div>
+
+```ascii
+> ACCESS POINTS:
+  [1] Repository: https://github.com/usuario/Sabor_Urbano
+  [2] Live Demo: https://franjavacisco.github.io/Sabor_Urbano/
+```
+
+```ascii
+[PROJECT_003: Landing_Page]
+> Status: ONLINE
+> Type: Interactive Landing
+> Security Level: MEDIUM
+```
+<div style="padding: 10px; margin: 10px 0; border: 1px dashed #0f0;">
+<img src="./assets/Landing_Page.png" alt="Landing_Page" style="max-width: 100%; height: auto; filter: sepia(100%) hue-rotate(70deg) brightness(70%) contrast(150%);">
+</div>
+
+```ascii
+> ACCESS POINTS:
+  [1] Repository: https://github.com/usuario/Landing_Page
+  [2] Live Demo: https://franjavacisco.github.io/Landing_Page/
+```
+</div>
+
+```ascii
+╔═══ FILOSOFÍA DE DESARROLLO ══════════════════════════════════╗
+```
+
+<div style="text-align: left; padding: 20px; border: 1px solid #0f0; background-color: #001100;">
+<img src="https://readme-typing-svg.herokuapp.com?font=DOS&duration=100&pause=1000&color=00FF00&multiline=true&width=500&height=150&lines=C:\>+EXECUTING+developerPhilosophy.exe;>>+clean_code:+ENABLED;>>+security_first:+ACTIVE;>>+user_experience:+PRIORITY;>>+continuous_learning:+INFINITE_LOOP" />
+
+```ascii
+[SYSTEM_QUOTE]
+"La seguridad no es solo una capa más, 
+es el fundamento de una experiencia de usuario excepcional"
+```
+</div>
+
+```ascii
+╔═══ INTERESES & HOBBIES ══════════════════════════════════════╗
+```
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 10px; text-align: left; padding: 20px; border: 1px solid #0f0; background-color: #001100;">
+
+```ascii
+[01] CTF Challenges........[ACTIVE]
+[02] Bug Bounty Hunting....[RUNNING]
+[03] Game Security.........[ENABLED]
+[04] Open Source..........[COMMITTED]
+```
+
+</div>
+
+```ascii
+╔═══ CONEXIÓN REMOTA ═══════════════════════════════════════════╗
+```
+
+<div style="text-align: left; padding: 20px; border: 1px solid #0f0; margin: 20px 0; background-color: #001100;">
+
+```ascii
+> AVAILABLE PROTOCOLS:
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/francisco-lopez-cl/)
+[![Twitter](https://img.shields.io/badge/Twitter-00FF00?style=for-the-badge&logo=twitter&logoColor=black)](TU_TWITTER)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF00?style=for-the-badge&logo=netlify&logoColor=black)](https://franjavacisco.github.io/mi_CV/)
+
+```ascii
+> CONTACT PROTOCOL:
+```
+
+[![Email](https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:panchodev@gmail.com)
+
+</div>
+
+```ascii
+╔═══ END OF TRANSMISSION ══════════════════════════════════════╗
+║     Press any key to continue...                            ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+<div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none; background: linear-gradient(transparent 50%, rgba(0, 255, 0, 0.05) 50%); background-size: 100% 4px; z-index: 1;"></div>
+
 </div>
