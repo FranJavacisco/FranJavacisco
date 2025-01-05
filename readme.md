@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Animated name](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=P;PA;PAN;PANC;PANCH;PANCHO;PANCHO+D;PANCHO+DE;PANCHO+DEV)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&pause=1000&color=00A6FF&center=true&multiline=true&width=500&height=80&lines=P;Pa;Pan;Panc;Panch;Pancho;PanchoD;PanchoDe;PanchoDev)](https://git.io/typing-svg)
 
 </div>
 ```
@@ -90,7 +90,7 @@ $ ls automation/
 
 ### 👁️ Visitantes
 
-![Visitor Count](https://profile-counter.glitch.me/FranJavaCisco/count.svg?base=90000)
+![Visitor Count](https://profile-counter.glitch.me/FranJavaCisco/count.svg?startingValue=90000)
 
 </div>
 
