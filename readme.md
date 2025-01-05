@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=50&duration=2000&pause=1000&color=00A6FF&center=true&vCenter=true&width=435&lines=PanchoDev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=70&duration=2000&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&height=100&lines=PanchoDev)](https://git.io/typing-svg)
 
 </div>
 ```
@@ -89,7 +89,7 @@ $ ls automation/
 <div align="center">
 
 ### 👁️ Visitantes
-<img src="https://visitor-badge.laobi.icu/badge?page_id=FranJavaCisco&left_color=blue&right_color=gray&left_text=Views&initial=90000"/>
+![](https://komarev.com/ghpvc/?username=FranJavaCisco&style=flat-square&color=00A6FF&base=90000)
 
 </div>
 
