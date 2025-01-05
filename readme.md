@@ -68,7 +68,7 @@ $ ls automation/
 > CI/CD        > DevSecOps    > Testing
 ```
 
-## 📊 GitHub Stats 2024
+## 📊 GitHub Stats
 
 <div align="center">
   
