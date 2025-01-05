@@ -1,167 +1,103 @@
+```ascii
+███████╗██████╗  █████╗ ███╗   ██╗ ██████╗██╗███████╗ ██████╗ ██████╗ 
+██╔════╝██╔══██╗██╔══██╗████╗  ██║██╔════╝██║██╔════╝██╔════╝██╔═══██╗
+█████╗  ██████╔╝███████║██╔██╗ ██║██║     ██║███████╗██║     ██║   ██║
+██╔══╝  ██╔══██╗██╔══██║██║╚██╗██║██║     ██║╚════██║██║     ██║   ██║
+██║     ██║  ██║██║  ██║██║ ╚████║╚██████╗██║███████║╚██████╗╚██████╔╝
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚═╝╚══════╝ ╚═════╝ ╚═════╝ 
+```
+
 <div align="center">
-
-```
-╔══════════════════════════════════════════════╗
-║       MS-DOS 6.22 - DEVELOPER PROFILE        ║
-║         C:\Users\FranLopez\README.md         ║
-╚══════════════════════════════════════════════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DOS&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&width=435&lines=LOADING+PROFILE...;ACCESS+GRANTED)](https://git.io/typing-svg)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=DOS&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&width=435&lines=C:\>dir+developer_info;>>+NAME:+Francisco+L%C3%B3pez;>>+ROLE:+Front-End+Developer;>>+LEVEL:+Security+Tech" alt="Developer Info"/>
-
----
-### `SYSTEM INFORMATION`
-
-```
-C:\>systeminfo
-
-Developer Profile v2.0.24
-------------------------
-OS: Front-End Development
-Security: Enabled
-Status: Online
-Last Update: 23/11/2024
-```
-
----
-### `TECH STACK`
-
-```
-C:\>check_skills
-
-[FRONTEND]
-HTML5........: ████████████ 100%
-CSS3.........: ██████████░░  80%
-JavaScript...: ████████░░░░  70%
-React........: ██████████░░  80%
-Vue.js.......: ████████░░░░  70%
-
-[BACKEND]
-Java.........: ████████░░░░  70%
-Spring Boot..: ██████░░░░░░  60%
-Flask........: ████░░░░░░░░  40%
-
-[SECURITY]
-OWASP........: ██████████░░  80%
-PenTesting...: ████████░░░░  70%
-Web Security.: ██████████░░  80%
-```
-
----
-### `FEATURED PROJECTS`
-
-```
-C:\>dir projects
-```
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-```
-[PROJECT_001]
-> Agent_Smith.exe
-> Status: ACTIVE
-> Type: Matrix Login
-```
-<img src="./assets/Agent_Smith.png" width="100%" alt="Agent Smith"/>
-
-```
-[ACCESS POINTS]
-> git clone
-> live demo
-```
-[![Repo](https://img.shields.io/badge/Repositorio-%2300ff00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/FranJavacisco/Agent_Smith)
-[![Demo](https://img.shields.io/badge/Demo-%2300ff00?style=for-the-badge&logo=firefox&logoColor=black)](https://franjavacisco.github.io/Agent_Smith/)
-
-</td>
-<td width="33%" align="center">
-
-```
-[PROJECT_002]
-> Sabor_Urbano.exe
-> Status: ACTIVE
-> Type: Restaurant UI
-```
-<img src="./assets/Sabor_Urbano.png" width="100%" alt="Sabor Urbano"/>
-
-```
-[ACCESS POINTS]
-> git clone
-> live demo
-```
-[![Repo](https://img.shields.io/badge/Repositorio-%2300ff00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/FranJavacisco/Sabor_Urbano)
-[![Demo](https://img.shields.io/badge/Demo-%2300ff00?style=for-the-badge&logo=firefox&logoColor=black)](https://franjavacisco.github.io/Sabor_Urbano/)
-
-</td>
-<td width="33%" align="center">
-
-```
-[PROJECT_003]
-> Landing_Page.exe
-> Status: ACTIVE
-> Type: Interactive UI
-```
-<img src="./assets/Landing_Page.png" width="100%" alt="Landing Page"/>
-
-```
-[ACCESS POINTS]
-> git clone
-> live demo
-```
-[![Repo](https://img.shields.io/badge/Repositorio-%2300ff00?style=for-the-badge&logo=github&logoColor=black)](https://github.com/usuario/Landing_Page)
-[![Demo](https://img.shields.io/badge/Demo-%2300ff00?style=for-the-badge&logo=firefox&logoColor=black)](https://franjavacisco.github.io/Landing_Page/)
-
-</td>
-</tr>
-</table>
-
----
-### `DEVELOPER PHILOSOPHY`
-
-<img src="https://readme-typing-svg.herokuapp.com?font=DOS&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&height=80&lines=C:\>type+philosophy.txt;La+seguridad+no+es+solo+una+capa+m%C3%A1s%2C;es+el+fundamento+de+una+experiencia;de+usuario+excepcional" alt="Philosophy"/>
-
-```
-C:\>run devPhilosophy.exe
-{
-    clean_code: true,
-    security_first: true,
-    user_experience: "priority",
-    continuous_learning: "always"
-}
-```
-
----
-### `INTERESTS & HOBBIES`
-
-```
-C:\>tasklist
-[01] CTF Challenges......[ACTIVE]
-[02] Bug Bounty.........[RUNNING]
-[03] Game Security......[ENABLED]
-[04] Open Source........[COMMITTED]
-```
-
----
-### `REMOTE ACCESS`
-
-```
-C:\>connect
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300ff00?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/francisco-lopez-cl/)
-[![Twitter](https://img.shields.io/badge/Twitter-%2300ff00?style=for-the-badge&logo=twitter&logoColor=black)](TU_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300ff00?style=for-the-badge&logo=netlify&logoColor=black)](https://franjavacisco.github.io/mi_CV/)
-
-### `CONTACT PROTOCOL`
-
-[![Email](https://img.shields.io/badge/Email-%2300ff00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:panchodev@gmail.com)
-
-```
-C:\>EXIT
-Press any key to continue...
-```
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Frontend+Developer;Cybersecurity+Specialist;Ethical+Hacker;Security+Researcher)](https://git.io/typing-svg)
 
 </div>
+
+# 👨‍💻 Francisco Lopez
+**Frontend Developer** | **Cybersecurity Specialist** | **Tech Professional**
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif">
+
+¡Hola! Soy Francisco, un Desarrollador Frontend con especialización en Ciberseguridad. Mi formación técnica y experiencia combinan el desarrollo web moderno con prácticas robustas de seguridad.
+
+```javascript
+const francisco = {
+    code: ["Javascript", "HTML", "CSS", "Python", "Java"],
+    tools: {
+        frontend: ["React", "Responsive Design", "UI/UX"],
+        security: ["Wireshark", "Nessus", "Qualys"],
+        cloud: ["Azure", "AWS"],
+        automation: ["Python", "PowerShell", "Bash"]
+    },
+    currentFocus: "Secure Frontend Development"
+};
+```
+
+## 🎯 Objetivo
+```ascii
+[*] Desarrollando interfaces seguras y atractivas
+[*] Implementando seguridad desde el diseño
+[*] Automatizando procesos de seguridad
+[*] Creando experiencias web protegidas
+```
+
+## 🛡️ Arsenal Técnico
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,java,azure,git)](https://skillicons.dev)
+
+</div>
+
+### 💻 Frontend Development
+```terminal
+$ ls frontend-skills/
+> HTML5        > CSS3         > JavaScript
+> React.js     > Responsive   > UI/UX Security
+```
+
+### 🔒 Cybersecurity
+```terminal
+$ ls security-tools/
+> Wireshark    > Nessus       > Qualys
+> CIS Controls > NIST         > ISO 27001
+```
+
+### ⚡ Automatización
+```terminal
+$ ls automation/
+> Python       > PowerShell   > Bash
+> CI/CD        > DevSecOps    > Testing
+```
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusername&show_icons=true&theme=radical)
+
+</div>
+
+## 📫 Conecta Conmigo
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-lopezf28%40gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:lopezf28@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/francisco-lopez)
+[![Location](https://img.shields.io/badge/Location-Region%20de%20Ohiggins-green?style=for-the-badge&logo=google-maps)](https://www.google.com/maps)
+
+</div>
+
+---
+<div align="center">
+
+### 👁️ Visitantes
+
+![Visitor Count](https://profile-counter.glitch.me/tuusername/count.svg)
+
+</div>
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════════════╗
+║  "La seguridad no es un producto, es un proceso integrado en cada línea"  ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
